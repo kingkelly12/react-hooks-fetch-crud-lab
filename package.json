@@ -10,10 +10,14 @@
     "whatwg-fetch": "^3.6.2"
   },
   "devDependencies": {
+    "@babel/preset-env": "^7.27.1",
+    "@babel/preset-react": "^7.27.1",
     "@learn-co-curriculum/jest-learn-reporter": "^0.1.0",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "babel-jest": "^29.7.0",
+    "jest": "^27.5.1",
     "mocha": "^8.2.1",
     "msw": "^0.24.2"
   },
